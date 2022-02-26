@@ -9,3 +9,10 @@ color: black;
 font-size: 30px;
 margin-bottom: 10px;
 }
+.about-pet {
+  text-align: center;
+  color: white;
+  background: black;
+  margin-left: 250px;
+  margin-right: 100px
+}
