@@ -1,6 +1,11 @@
 body {
-  background-image: url("");
+  background-image: url("../img/banner.jpg");
+
 }
 .header {
-background-image: url("../img/zavibckg.jpg");
+background-image: url("../img/banner1.jpg");
+text-align: center;
+color: black;
+font-size: 30px;
+margin-bottom: 10px;
 }
